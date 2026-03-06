@@ -1,0 +1,149 @@
+{
+  "categories": [
+    "G1 Phase",
+    "Prophase",
+    "Prometaphase",
+    "Metaphase",
+    "Anaphase",
+    "Telophase"
+  ],
+
+  "questions": [
+
+    {
+      "prompt": { "image": "images/g1phase.png" },
+      "answer": "G1 Phase"
+    },
+
+    {
+      "prompt": { "text": "Sister chromatids condense." },
+      "answer": "Prophase"
+    },
+
+    {
+      "prompt": { "text": "Nucleoli disappear." },
+      "answer": "Prophase"
+    },
+
+    {
+      "prompt": { "text": "Mitotic spindle begins to form." },
+      "answer": "Prophase"
+    },
+
+    {
+      "prompt": { "text": "Centrosomes begin moving away from each other." },
+      "answer": "Prophase"
+    },
+
+    {
+      "prompt": { "image": "images/prophase.png" },
+      "answer": "Prophase"
+    },
+
+    {
+      "prompt": { "text": "Nuclear envelope fragments." },
+      "answer": "Prometaphase"
+    },
+
+    {
+      "prompt": { "text": "Microtubules from centrosomes begin invading the nuclear area." },
+      "answer": "Prometaphase"
+    },
+
+    {
+      "prompt": { "text": "Kinetochores have now formed at the centromere of each chromatid (2 per chromosome)." },
+      "answer": "Prometaphase"
+    },
+
+    {
+      "prompt": { "text": "Some microtubules begin to connect to the kinetochores becoming \"kinetochore microtubules\" which can move the chromosome." },
+      "answer": "Prometaphase"
+    },
+
+    {
+      "prompt": { "text": "Non-kinetochore microtubules extending from one centrosome begin interacting with non-kinetochore microtubules originating from the other centrosome, causing the cell to lengthen." },
+      "answer": "Prometaphase"
+    },
+
+    {
+      "prompt": { "image": "images/prometaphase.png" },
+      "answer": "Prometaphase"
+    },
+
+    {
+      "prompt": { "text": "Centrosomes are now at opposite ends of the cell." },
+      "answer": "Metaphase"
+    },
+
+    {
+      "prompt": { "text": "The chromosomes now arrive at the \"metaphase plate\", a plate equidistant from the centrosome spindle poles." },
+      "answer": "Metaphase"
+    },
+
+    {
+      "prompt": { "image": "images/metaphase.png" },
+      "answer": "Metaphase"
+    },
+
+    {
+      "prompt": { "text": "Shortest stage of mitosis." },
+      "answer": "Anaphase"
+    },
+
+    {
+      "prompt": { "text": "Cohesion proteins are cleaved." },
+      "answer": "Anaphase"
+    },
+
+    {
+      "prompt": { "text": "Sister chromatids separate abruptly." },
+      "answer": "Anaphase"
+    },
+
+    {
+      "prompt": { "text": "Sister chromatids become independent chromosomes." },
+      "answer": "Anaphase"
+    },
+
+    {
+      "prompt": { "text": "Daughter chromosomes begin heading to opposite sides as kinetochore microtubules shorten." },
+      "answer": "Anaphase"
+    },
+
+    {
+      "prompt": { "image": "images/anaphase.png" },
+      "answer": "Anaphase"
+    },
+
+    {
+      "prompt": { "text": "Two daughter nuclei form." },
+      "answer": "Telophase"
+    },
+
+    {
+      "prompt": { "text": "Nuclear envelopes form from the fragments of parent cell's old nuclear envelope and portions of the endomembrane." },
+      "answer": "Telophase"
+    },
+
+    {
+      "prompt": { "text": "Nucleoli reapper." },
+      "answer": "Telophase"
+    },
+
+    {
+      "prompt": { "text": "Chromosomes become less condensed." },
+      "answer": "Telophase"
+    },
+
+    {
+      "prompt": { "text": "Remaining spindle microtubules are depolymerized." },
+      "answer": "Telophase"
+    },
+
+    {
+      "prompt": { "image": "images/telophase.png" },
+      "answer": "Telophase"
+    }
+    
+  ]
+}
