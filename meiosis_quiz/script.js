@@ -125,7 +125,7 @@ function loadQuestion() {
     /* small prompt */
     const instruction = document.createElement('div');
     instruction.textContent =
-        prompt.instruction || 'What stage of mitosis does this image depict?';
+        prompt.instruction || 'What stage of meiosis does this image depict?';
     instruction.className = 'image-instruction';
     promptBox.appendChild(instruction);
     /* image */
