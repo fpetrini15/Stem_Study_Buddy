@@ -1,4 +1,6 @@
 {
+  "title":"Meiosis Quiz",
+
   "categories": [
     "Prophase I",
     "Metaphase I",
@@ -11,12 +13,6 @@
   ],
 
   "questions": [
-
-    {
-      "prompt": { "image": "images/prophase1.png" },
-      "answer": "Prophase I"
-    },
-
     {
       "prompt": { "text": "Centrosome movement, spindle formation, and nuclear envelope breakdown." },
       "answer": "Prophase I"
@@ -43,11 +39,6 @@
     },
 
     {
-      "prompt": { "image": "images/metaphase1.png" },
-      "answer": "Metaphase 1"
-    },
-
-    {
       "prompt": { "text": "Pairs of homologous chromosomes are aligned at the metaphase plate." },
       "answer": "Metaphase I"
     },
@@ -60,11 +51,6 @@
     {
       "prompt": { "text": "Both chromatids of one homolog are attached to kinetochore of their nearest centrosomal pole." },
       "answer": "Metaphase I"
-    },
-
-    {
-      "prompt": { "image": "images/anaphase1.png" },
-      "answer": "Anaphase I"
     },
 
     {
@@ -83,11 +69,6 @@
     },
 
     {
-      "prompt": { "image": "images/telophase1.png" },
-      "answer": "Telophase I and Cytokinesis"
-    },
-
-    {
       "prompt": { "text": "At the start, each pole has a complete haploid set of duplicated chromosomes." },
       "answer": "Telophase I and Cytokinesis"
     },
@@ -103,11 +84,6 @@
     },
 
     {
-      "prompt": { "image": "images/prophase2.png" },
-      "answer": "Prophase II"
-    },
-
-    {
       "prompt": { "text": "Spindle apparatus forms in a haploid cell." },
       "answer": "Prophase II"
     },
@@ -118,18 +94,8 @@
     },
 
     {
-      "prompt": { "image": "images/metaphase2.png" },
-      "answer": "Metaphase II"
-    },
-
-    {
       "prompt": { "text": "Sister chromatids are positioned at the metaphase plate." },
       "answer": "Metaphase II"
-    },
-
-    {
-      "prompt": { "image": "images/anaphase2.png" },
-      "answer": "Anaphase II"
     },
 
     {
@@ -140,11 +106,6 @@
     {
       "prompt": { "text": "Each chromatid is now an independent chromosome in a haploid cell." },
       "answer": "Anaphase II"
-    },
-
-    {
-      "prompt": { "image": "images/telophase2.png" },
-      "answer": "Telophase II and Cytokinesis"
     },
 
     {
