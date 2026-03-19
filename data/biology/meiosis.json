@@ -20,12 +20,353 @@
     },
 
     {
-      "type": "multiple_choice",
+      "type": "drag_and_drop",
+      "prompt": { "text": "Chromosomes condense progressively." },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Prophase I"
+    },
+
+    {
+      "type": "drag_and_drop",
       "prompt": {
-        "text": "If a homozygous dominant male (AA) crosses with a homozygous recessive female (aa), what percent chance is there that the offspring will be dominant-displaying?"
+        "text": "Homologous chromosomes pairs are aligned and chromosomal cross over occurs."
       },
-      "options": ["0%", "25%", "50%", "100%"],
-      "answer": "100%"
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Prophase I"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": { "text": "Chiasmatas first appear." },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Prophase I"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Microtubules from opposite poles attach to the kinetochores, one at the center of each homolog."
+      },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Prophase I"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Pairs of homologous chromosomes are aligned at the metaphase plate."
+      },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Metaphase I"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Each homologous pair is aligned at the metaphase plate independent of the other pairs."
+      },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Metaphase I"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Both chromatids of one homolog are attached to kinetochore of their nearest centrosomal pole."
+      },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Metaphase I"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Breakdown of proteins along chromatid arms allows homologs to separate."
+      },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Anaphase I"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Homologs move to opposite poles, guided by spindle apparatus."
+      },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Anaphase I"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Sister chromatids are still joined at the centromere, causing them to move as a unit."
+      },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Anaphase I"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "At the start, each pole has a complete haploid set of duplicated chromosomes."
+      },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Telophase I and Cytokinesis"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": { "text": "Cytokinesis forms two haploid daughter cells." },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Telophase I and Cytokinesis"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Two haploid daughter cells have formed, but no chromosomal duplication occurs."
+      },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Telophase I and Cytokinesis"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": { "text": "Spindle apparatus forms in a haploid cell." },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Prophase II"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "In the late stage, sister chromatids are moved via microtubules to the metaphase plate."
+      },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Prophase II"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Sister chromatids are positioned at the metaphase plate."
+      },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Metaphase II"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Breakdown of proteins holding sister chromatids together, allowing them to separate and move to opposite poles."
+      },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Anaphase II"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Each chromatid is now an independent chromosome in a haploid cell."
+      },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Anaphase II"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": { "text": "Nuclei form and chromosomes begin condensing." },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Telophase II and Cytokinesis"
+    },
+
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Following cytokinesis, 4 genetically distinct haploid cells have formed."
+      },
+      "categories": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I and Cytokinesis",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II and Cytokinesis"
+      ],
+      "answer": "Telophase II and Cytokinesis"
     }
   ]
 }
