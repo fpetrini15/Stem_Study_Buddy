@@ -1,0 +1,31 @@
+{
+  "title": "Gene Expression Quiz",
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which of the following best explains how proteins serve as the bridge between an organism's genotype and its phenotype?"
+      },
+      "options": [
+        "Proteins act as the template for DNA replication, ensuring the genotype is preserved.",
+        "The DNA sequence (genotype) specifies the sequence of amino acids in a protein, and the resulting protein's function determines the physical trait (phenotype).",
+        "Phenotypes are determined solely by the environment, which then modifies the proteins to create the genotype.",
+        "Proteins are converted directly into mRNA to provide the genetic instructions for the cell's physical characteristics."
+      ],
+      "answer": "The DNA sequence (genotype) specifies the sequence of amino acids in a protein, and the resulting protein's function determines the physical trait (phenotype)."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which of the following correctly distinguishes the roles of transcription and translation in the flow of genetic information?"
+      },
+      "options": [
+        "Transcription occurs in the cytoplasm to produce proteins, while translation occurs in the nucleus to produce RNA.",
+        "Transcription is the synthesis of RNA using a DNA template, while translation is the synthesis of a polypeptide using the information in mRNA.",
+        "Transcription involves the duplication of the entire genome, while translation involves the selective copying of specific gene sequences.",
+        "Transcription uses ribosomes to read DNA sequences, while translation uses RNA polymerase to assemble amino acids."
+      ],
+      "answer": "Transcription is the synthesis of RNA using a DNA template, while translation is the synthesis of a polypeptide using the information in mRNA."
+    }
+  ]
+}

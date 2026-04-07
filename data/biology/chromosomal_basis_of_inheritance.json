@@ -1,0 +1,217 @@
+{
+  "title": "Chromosomal Basis of Inheritance Quiz",
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "The chromosomal basis of inheritance, which links the behavior of chromosomes during meiosis to Mendelian inheritance patterns, explains that __."
+      },
+      "options": [
+        "Genes are located at specific loci on chromosomes and segregate independently during meiosis",
+        "Alleles are always inherited in the same combinations as they appeared in the parents",
+        "Chromosomes are only responsible for determining the sex of an offspring",
+        "DNA replication occurs twice during the meiotic cell cycle to ensure genetic diversity"
+      ],
+      "answer": "Genes are located at specific loci on chromosomes and segregate independently during meiosis"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "In genetic studies, the phenotype that is most commonly observed in natural populations is referred to as the ________, whereas alternative traits resulting from changes in the genome are called ________."
+      },
+      "options": [
+        "Dominant, recessive",
+        "Wild type, mutant phenotypes",
+        "Genotype, phenotypes",
+        "Homozygote, heterozygotes"
+      ],
+      "answer": "Wild type, mutant phenotypes"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "In his famous experiments with fruit flies (Drosophila melanogaster), Thomas Hunt Morgan identified the first white-eyed mutant and discovered that it was inherited uniquely by male offspring. This led him to conclude that the gene for eye color was located on which chromosome?"
+      },
+      "options": [
+        "The Y chromosome, because only males exhibited the trait",
+        "The X chromosome, supporting the theory of sex-linkage",
+        "An autosome, since both males and females have eye color",
+        "The mitochondrial DNA, inherited only from the mother"
+      ],
+      "answer": "The X chromosome, supporting the theory of sex-linkage"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "The majority of sex-linked human genes are X-linked rather than Y-linked because __."
+      },
+      "options": [
+        "The X chromosome undergoes crossing over with the Y chromosome across its entire length",
+        "The Y chromosome is primarily composed of non-coding repetitive DNA and contains very few functional loci",
+        "X-linked genes are required for the development of both biological sexes during early embryogenesis",
+        "The X chromosome is significantly larger and contains a vastly higher number of gene loci than the Y chromosome"
+      ],
+      "answer": "The X chromosome is significantly larger and contains a vastly higher number of gene loci than the Y chromosome"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "In humans, why is it typically only biological females who can be homozygous recessive for an X-linked trait?"
+      },
+      "options": [
+        "Biological males lack a second X chromosome and are therefore hemizygous for all X-linked loci.",
+        "The Y chromosome contains dominant alleles that always mask recessive traits on the X chromosome.",
+        "X-inactivation prevents biological males from expressing recessive alleles on their single X chromosome.",
+        "Recessive alleles on the X chromosome are lethal in the embryonic stage for biological males."
+      ],
+      "answer": "Biological males lack a second X chromosome and are therefore hemizygous for all X-linked loci."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Because human males possess only a single X chromosome, they cannot be described as homozygous or heterozygous for X-linked genes, but are instead described as __."
+      },
+      "options": ["Aneuploid", "Hemizygous", "Haploid", "Monozygotic"],
+      "answer": "Hemizygous"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "During embryonic development in female mammals, one of the two X chromosomes in each cell is randomly and permanently inactivated, condensing into a compact object known as a(n) __."
+      },
+      "options": ["Centrosome", "Nucleolus", "Barr body", "Autosome"],
+      "answer": "Barr body"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "The tortoiseshell pattern in cats is a visible result of X-inactivation. This mosaic phenotype occurs because __."
+      },
+      "options": [
+        "Heterozygous females consist of different cell lineages, each expressing a different X-linked allele depending on which Barr body formed.",
+        "The Y chromosome in male cats carries a suppressor gene that prevents the expression of the orange fur allele.",
+        "The Barr body remains active in skin cells but is inactivated in all other somatic tissues of the cat.",
+        "Crossing over between the X and Y chromosomes during mitosis creates patches of different genetic material."
+      ],
+      "answer": "Heterozygous females consist of different cell lineages, each expressing a different X-linked allele depending on which Barr body formed."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which of the following best distinguishes between linked genes and sex-linked genes?"
+      },
+      "options": [
+        "Linked genes are located on the same chromosome, while sex-linked genes are located specifically on a sex chromosome.",
+        "Linked genes are always inherited together, whereas sex-linked genes only appear in one biological sex.",
+        "Linked genes are found only on autosomes, while sex-linked genes are found only on the Y chromosome.",
+        "Linked genes result from the fusion of gametes, whereas sex-linked genes result from X-inactivation."
+      ],
+      "answer": "Linked genes are located on the same chromosome, while sex-linked genes are located specifically on a sex chromosome."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "In a dihybrid testcross involving linked genes, 'recombinant types' are offspring that exhibit __."
+      },
+      "options": [
+        "The exact same phenotype combinations as either of the P generation parents",
+        "New combinations of traits that differ from those observed in either P generation parent",
+        "Only the dominant phenotypes for both traits being studied",
+        "A 3:1 phenotypic ratio regardless of the distance between the gene loci"
+      ],
+      "answer": "New combinations of traits that differ from those observed in either P generation parent"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Nondisjunction is a chromosomal error that occurs when ________, leading to an abnormal number of chromosomes in the resulting daughter cells."
+      },
+      "options": [
+        "DNA polymerase fails to replicate a specific segment of a chromosome during S phase",
+        "Homologous chromosomes or sister chromatids fail to separate properly during meiosis or mitosis",
+        "A segment of a chromosome breaks off and reattaches to a non-homologous chromosome",
+        "The nuclear envelope fails to break down during prophase, preventing spindle attachment"
+      ],
+      "answer": "Homologous chromosomes or sister chromatids fail to separate properly during meiosis or mitosis"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "T/F: Nondisjunction, the failure of chromosomes to separate properly, can occur during both Anaphase I and Anaphase II of meiosis."
+      },
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Aneuploidy is a condition characterized by __."
+      },
+      "options": [
+        "The presence of three or more complete sets of chromosomes in all somatic cells",
+        "Having one extra or one missing chromosome relative to the normal diploid number",
+        "A chromosomal translocation where a segment moves to a non-homologous chromosome",
+        "The successful separation of all homologous pairs during both meiotic divisions"
+      ],
+      "answer": "Having one extra or one missing chromosome relative to the normal diploid number"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "If a human gamete missing a specific chromosome fuses with a normal haploid gamete, the resulting ________ zygote will have ________ chromosomes in total."
+      },
+      "options": [
+        "Trisomic, 47",
+        "Monosomic, 45",
+        "Trisomic, 45",
+        "Monosomic, 47"
+      ],
+      "answer": "Monosomic, 45"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "A fragment of a chromosome breaks off and subsequently joins a non-homologous chromosome. This specific structural alteration is known as a(n) __."
+      },
+      "options": ["Deletion", "Duplication", "Inversion", "Translocation"],
+      "answer": "Translocation"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "During meiosis, a chromosomal fragment is lost after a breakage occurs, resulting in a chromosome that is missing certain genes. This structural change is called a(n) __."
+      },
+      "options": ["Inversion", "Duplication", "Translocation", "Deletion"],
+      "answer": "Deletion"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "When a chromosomal fragment breaks off and fails to rejoin its original chromosome, but instead attaches to its sister chromatid or homologous partner, which two structural alterations occur simultaneously?"
+      },
+      "options": [
+        "Inversion and translocation",
+        "Deletion and duplication",
+        "Nondisjunction and aneuploidy",
+        "Reciprocal translocation and deletion"
+      ],
+      "answer": "Deletion and duplication"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "An error during meiosis results in a chromosomal segment being repeated, such that a chromosome carries an extra copy of a specific set of genes. This structural alteration is known as a(n) __."
+      },
+      "options": ["Inversion", "Translocation", "Duplication", "Deletion"],
+      "answer": "Duplication"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "A chromosomal fragment breaks off and reattaches to its original chromosome, but in the reverse orientation. This structural change is known as a(n) __."
+      },
+      "options": ["Deletion", "Duplication", "Inversion", "Translocation"],
+      "answer": "Inversion"
+    }
+  ]
+}

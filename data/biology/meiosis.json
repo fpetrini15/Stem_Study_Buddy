@@ -367,6 +367,80 @@
         "Telophase II and Cytokinesis"
       ],
       "answer": "Telophase II and Cytokinesis"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "An ordered display of an individual’s complete set of chromosomes, arranged in homologous pairs from longest to shortest, is known as a(n) __."
+      },
+      "options": ["Genome", "Genotype", "Karyotype", "Phenotype"],
+      "answer": "Karyotype"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "If a specialized somatic cell of a specific animal species contains a total of 38 chromosomes, how many chromosomes would be present in a mature sperm cell of the same individual?"
+      },
+      "options": ["76", "38", "19", "9"],
+      "answer": "19"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "T/F: A sperm can contain an X or a Y chromosome."
+      },
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "T/F: Chromosome count directly correlates to species complexity."
+      },
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "When an egg and sperm fuse, the resulting cell is known as a(n) ________ and is ________."
+      },
+      "options": [
+        "Gamete, haploid",
+        "Embryo, triploid",
+        "Zygote, diploid",
+        "Spore, haploid"
+      ],
+      "answer": "Zygote, diploid"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "T/F: Animals, plants, fungi, and protists all utilize meiosis."
+      },
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "T/F: Hapoloids can undergo meiosis."
+      },
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "The principle of independent assortment during meiosis states that the orientation of one homologous pair of chromosomes at the metaphase plate is __."
+      },
+      "options": [
+        "Identical to the orientation of all other pairs",
+        "Independent of the orientation of other homologous pairs",
+        "Determined by the location of the centrosomes",
+        "Dependent on whether the chromosomes are maternal or paternal"
+      ],
+      "answer": "Independent of the orientation of other homologous pairs"
     }
   ]
 }

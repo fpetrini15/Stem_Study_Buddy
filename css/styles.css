@@ -320,7 +320,9 @@ QUIZ AREA
 
   cursor: grab;
 
-  min-height: 100px;
+  min-height: 50px;
+
+  min-width: 150px;
 
   max-width: 600px;
 

@@ -1,0 +1,172 @@
+{
+  "title": "Molecular Basis of Inheritance Quiz",
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "In his experiments with Streptococcus pneumoniae, Frederick Griffith observed that a non-pathogenic strain could become pathogenic when mixed with heat-killed remains of a pathogenic strain. This change in genotype and phenotype due to the assimilation of external DNA is called __."
+      },
+      "options": [
+        "Conjugation",
+        "Transduction",
+        "Transformation",
+        "Transfection"
+      ],
+      "answer": "Transformation"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which model of DNA replication, supported by the Meselson-Stahl experiment, predicts that when a double helix replicates, each of the two daughter molecules will have one old strand from the parental molecule and one newly made strand?"
+      },
+      "options": [
+        "Conservative model",
+        "Semiconservative model",
+        "Dispersive model",
+        "Destructive model"
+      ],
+      "answer": "Semiconservative model"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "The specific site on a DNA molecule where the replication process is initiated, characterized by a particular sequence of nucleotides, is known as the __."
+      },
+      "options": [
+        "Promoter region",
+        "Origin of replication",
+        "TATA box",
+        "Replication fork"
+      ],
+      "answer": "Origin of replication"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which of the following best describes the difference between prokaryotic and eukaryotic DNA replication regarding the origins of replication (OOR)?"
+      },
+      "options": [
+        "Prokaryotes have multiple origins to speed up replication, while eukaryotes have only one per chromosome.",
+        "Prokaryotes have a single origin on their circular chromosome, while eukaryotes have hundreds or thousands per linear chromosome.",
+        "Both prokaryotes and eukaryotes utilize exactly one origin of replication per DNA molecule to ensure accuracy.",
+        "Eukaryotes lack specific origins of replication and instead begin the process randomly along the chromatin."
+      ],
+      "answer": "Prokaryotes have a single origin on their circular chromosome, while eukaryotes have hundreds or thousands per linear chromosome."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "During DNA replication in eukaryotes, DNA polymerases can only add new nucleotides in which direction?"
+      },
+      "options": ["3' to 5'", "5' to 3'"],
+      "answer": "5' to 3'"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "During the initiation of DNA replication, which enzyme is responsible for untwisting the double helix at the replication forks and separating the two parental strands by breaking hydrogen bonds?"
+      },
+      "options": ["Topoisomerase", "DNA Polymerase III", "Helicase", "Primase"],
+      "answer": "Helicase"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "As helicase unwinds the DNA double helix, it creates strain and over-winding ahead of the replication fork. Which enzyme relieves this torsional strain by breaking, swiveling, and rejoining the DNA strands?"
+      },
+      "options": [
+        "Primase",
+        "DNA Ligase",
+        "Single-strand binding protein",
+        "Topoisomerase"
+      ],
+      "answer": "Topoisomerase"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "True or False: DNA polymerase can initiate the synthesis of a new polynucleotide strand on its own."
+      },
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which of the following characteristics is unique to the lagging strand during DNA replication, distinguishing it from the leading strand?"
+      },
+      "options": [
+        "It is synthesized by adding nucleotides to the 3' end of the growing chain.",
+        "It requires the action of DNA polymerase III for elongation.",
+        "It is synthesized in a direction moving away from the advancing replication fork.",
+        "It uses a template strand oriented in the 3' to 5' direction."
+      ],
+      "answer": "It is synthesized in a direction moving away from the advancing replication fork."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "What is the primary reason that Okazaki fragments are formed during the replication of DNA?"
+      },
+      "options": [
+        "The DNA polymerase can only add nucleotides to the 5' end of the new strand.",
+        "The lagging strand template is oriented 5' to 3', but DNA polymerase can only synthesize in the 5' to 3' direction.",
+        "Okazaki fragments allow the cell to verify the accuracy of the leading strand before finishing replication.",
+        "Helicase can only unwind the DNA in short bursts, requiring the polymerase to stop and start."
+      ],
+      "answer": "The lagging strand template is oriented 5' to 3', but DNA polymerase can only synthesize in the 5' to 3' direction."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "What is the specific role of DNA ligase during the final stages of lagging strand synthesis?"
+      },
+      "options": [
+        "It replaces RNA primer nucleotides with DNA nucleotides.",
+        "It catalyzes the formation of phosphodiester bonds between the sugar-phosphate backbones of adjacent Okazaki fragments.",
+        "It breaks hydrogen bonds between the two parental strands to create the replication fork.",
+        "It provides a free 3' hydroxyl group for DNA polymerase III to begin synthesis."
+      ],
+      "answer": "It catalyzes the formation of phosphodiester bonds between the sugar-phosphate backbones of adjacent Okazaki fragments."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "In mismatch repair (MMR), which occurs after DNA replication is complete, how does the cell correct errors that were missed by the proofreading function of DNA polymerase?"
+      },
+      "options": [
+        "Specific enzymes identify the mismatched base, remove the incorrect segment, and fill in the gap using the original template strand.",
+        "DNA polymerase reverses its direction and uses its 5' to 3' exonuclease activity to chew back to the mistake.",
+        "Photolyase enzymes use light energy to directly break the covalent bonds between mismatched nucleotides.",
+        "The cell undergoes apoptosis immediately because mismatched bases cannot be repaired once the replication fork has passed."
+      ],
+      "answer": "Specific enzymes identify the mismatched base, remove the incorrect segment, and fill in the gap using the original template strand."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "If a replication error evades the immediate proofreading of DNA polymerase and remains uncorrected through subsequent repair mechanisms, what is the most likely long-term consequence for the cell lineage?"
+      },
+      "options": [
+        "The error will be automatically corrected during the next round of S phase by the same DNA polymerase.",
+        "The altered nucleotide sequence becomes a permanent mutation that is passed on to all daughter cells.",
+        "The cell will detect the mismatch during mitosis and trigger the spindle checkpoint to stop division.",
+        "The hydrogen bonds will fail to form, causing the DNA molecule to spontaneously degrade."
+      ],
+      "answer": "The altered nucleotide sequence becomes a permanent mutation that is passed on to all daughter cells."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Eukaryotic chromosomes shorten with each round of replication because DNA polymerase cannot complete the 5' end of the new strand after the final RNA primer is removed from the lagging strand. This 'gap' at the end of the chromosome is directly related to the function of which structures?"
+      },
+      "options": [
+        "Centromeres, which hold the sister chromatids together during the shortening process.",
+        "Okazaki fragments, which must be converted into telomeres to stabilize the chromosome.",
+        "Telomeres, which act as non-coding buffers that protect the essential genes from being lost during this shortening.",
+        "Kinetochores, which provide the signal to stop replication before the last fragment is reached."
+      ],
+      "answer": "Telomeres, which act as non-coding buffers that protect the essential genes from being lost during this shortening."
+    }
+  ]
+}

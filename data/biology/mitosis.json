@@ -391,6 +391,149 @@
         "Telophase"
       ],
       "answer": "Telophase"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Sister chromatids are attached together but a structure known as a __."
+      },
+      "options": ["Centromere", "Centrosome", "Chromosome", "Kinetechore"],
+      "answer": "Centromere"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "All body cells, not including sex cells, are known as __."
+      },
+      "options": ["Gametes", "Somatic Cells", "Haploid Cells", "Germ Cells"],
+      "answer": "Somatic Cells"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Sister chromatids are attached down their length by protein complexes called __."
+      },
+      "options": ["Condensins", "Cohesins", "Histones", "Centromeres"],
+      "answer": "Cohesins"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "A portion of chromatid to either side of the centromere is known as a(n) __."
+      },
+      "options": ["Chromatid Segment", "Arm", "Kinetichore", "Telomere"],
+      "answer": "Cohesins"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "A portion of chromatid to either side of the centromere is known as a(n) __."
+      },
+      "options": ["Chromatid Segment", "Arm", "Kinetichore", "Telomere"],
+      "answer": "Cohesins"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "T/F: Chromosomes, regardless of replication status, always have a centromere."
+      },
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which of the following best describes the distinction between mitosis and cytokinesis?"
+      },
+      "options": [
+        "Mitosis is the division of the cytoplasm, while cytokinesis is the division of the nucleus.",
+        "Mitosis is the division of the nucleus, while cytokinesis is the division of the cytoplasm.",
+        "Mitosis occurs only in plant cells, while cytokinesis occurs only in animal cells.",
+        "Mitosis and cytokinesis are different names for the exact same process."
+      ],
+      "answer": "Mitosis is the division of the nucleus, while cytokinesis is the division of the cytoplasm."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "T/F: Mitosis in plant cells requires centrioles."
+      },
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "T/F: Plant cells do not form a clevage furrow during mitosis."
+      },
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "T/F: Both prokaryotes and eukaryotes replicate via mitosis."
+      },
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "The process by which prokaryotic cells, such as bacteria, undergo cell division is known as __."
+      },
+      "options": ["Mitosis", "Budding", "Binary fission", "Fragmentation"],
+      "answer": "Binary fission"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "The activity of Maturation-Promoting Factor (MPF) peaks at the end of G2 to trigger the onset of mitosis. This peak is directly caused by the accumulation of which molecules?"
+      },
+      "options": [
+        "Cyclin-dependent kinases (Cdks) alone",
+        "Cyclins that bind with Cdk to form active complexes",
+        "Growth factors that initiate DNA replication",
+        "APC/C complexes that degrade sister chromatids"
+      ],
+      "answer": "Cyclins that bind with Cdk to form active complexes"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Most human cells are in the __ phase."
+      },
+      "options": ["G1", "G2", "G0", "S"],
+      "answer": "Binary fission"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "MPF (Maturation-Promoting Factor) initiates its own inactivation during anaphase by triggering a process that leads to the __."
+      },
+      "options": [
+        "Dephosphorylation of its Cdk subunit",
+        "Degradation of its cyclin subunit",
+        "Competitive inhibition by p53 proteins",
+        "Export of the complex out of the nucleus"
+      ],
+      "answer": "Degradation of its cyclin subunit"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Chromosomes are divided into two sections by the centromere; the shorter arm is designated as the __ arm, while the longer arm is the __ arm."
+      },
+      "options": ["q, p", "p, q", "p, s", "l, s"],
+      "answer": "p, q"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "In a human somatic cell that typically contains 46 chromosomes, how many sister chromatids are present immediately following the completion of S phase?"
+      },
+      "options": ["23", "46", "92", "184"],
+      "answer": "92"
     }
   ]
 }
