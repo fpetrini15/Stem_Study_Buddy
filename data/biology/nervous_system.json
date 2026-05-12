@@ -1,0 +1,360 @@
+{
+  "title": "Nervous System Quiz",
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "What is the primary structural difference between gray matter and white matter in the central nervous system?"
+      },
+      "options": [
+        "Gray matter consists of myelinated axons, while white matter consists of cell bodies and dendrites.",
+        "Gray matter primarily contains neuron cell bodies and unmyelinated fibers, while white matter consists of bundles of myelinated axons.",
+        "Gray matter is found only in the brain, while white matter is found only in the spinal cord.",
+        "Gray matter is responsible for metabolic energy production, while white matter is responsible for filtering the blood-brain barrier."
+      ],
+      "answer": "Gray matter primarily contains neuron cell bodies and unmyelinated fibers, while white matter consists of bundles of myelinated axons."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "The Peripheral Nervous System (PNS) is primarily divided into which two functional components?"
+      },
+      "options": [
+        "The Brain and the Spinal Cord",
+        "The Somatic (motor) system and the Autonomic nervous system",
+        "The Central system and the Peripheral system",
+        "The Myelinated system and the Unmyelinated system"
+      ],
+      "answer": "The Somatic (motor) system and the Autonomic nervous system"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "What is the primary functional difference between the sympathetic and parasympathetic divisions of the autonomic nervous system?"
+      },
+      "options": [
+        "The sympathetic division controls voluntary muscle movement, while the parasympathetic division controls involuntary reflexes.",
+        "The sympathetic division prepares the body for 'fight or flight' (energy expenditure), while the parasympathetic division promotes 'rest and digest' (energy conservation).",
+        "The sympathetic division is located entirely in the brain, while the parasympathetic division is located only in the spinal cord.",
+        "The sympathetic division speeds up digestion to provide quick energy, while the parasympathetic division slows it down to save glucose."
+      ],
+      "answer": "The sympathetic division prepares the body for 'fight or flight' (energy expenditure), while the parasympathetic division promotes 'rest and digest' (energy conservation)."
+    },
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Increases heart rate"
+      },
+      "categories": [
+        "Sympathetic Nervous System",
+        "Parasympathetic Nervous System"
+      ],
+      "answer": "Sympathetic Nervous System"
+    },
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Slows heart rate"
+      },
+      "categories": [
+        "Sympathetic Nervous System",
+        "Parasympathetic Nervous System"
+      ],
+      "answer": "Parasympathetic Nervous System"
+    },
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Dilates pupils"
+      },
+      "categories": [
+        "Sympathetic Nervous System",
+        "Parasympathetic Nervous System"
+      ],
+      "answer": "Sympathetic Nervous System"
+    },
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Constricts pupils"
+      },
+      "categories": [
+        "Sympathetic Nervous System",
+        "Parasympathetic Nervous System"
+      ],
+      "answer": "Parasympathetic Nervous System"
+    },
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Inhibits digestion"
+      },
+      "categories": [
+        "Sympathetic Nervous System",
+        "Parasympathetic Nervous System"
+      ],
+      "answer": "Sympathetic Nervous System"
+    },
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Stimulates digestion"
+      },
+      "categories": [
+        "Sympathetic Nervous System",
+        "Parasympathetic Nervous System"
+      ],
+      "answer": "Parasympathetic Nervous System"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which major brain region is responsible for complex functions such as learning, memory, and the processing of sensory input?"
+      },
+      "options": ["Forebrain", "Midbrain", "Hindbrain", "Spinal Cord"],
+      "answer": "Forebrain"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "What is the primary role of the midbrain in vertebrate brain processing?"
+      },
+      "options": [
+        "Regulating the body's core temperature and metabolism.",
+        "Coordinating the routing of sensory input to other specific areas of the brain.",
+        "Managing higher-level emotional intelligence and language development.",
+        "Controlling involuntary muscle movements like the heartbeat."
+      ],
+      "answer": "Coordinating the routing of sensory input to other specific areas of the brain."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which brain region primarily coordinates involuntary activities, such as blood circulation and basic motor locomotion?"
+      },
+      "options": ["Forebrain", "Midbrain", "Hindbrain", "Cerebrum"],
+      "answer": "Hindbrain"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which structure consists of the midbrain, pons, and medulla oblongata and controls essential 'homeostatic' functions like breathing, heart rate, and swallowing?"
+      },
+      "options": ["Cerebellum", "Brainstem", "Cerebral Cortex", "Thalamus"],
+      "answer": "Brainstem"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which part of the brain is primarily responsible for coordinating movement and balance, such as helping you ride a bike or play an instrument?"
+      },
+      "options": [
+        "Hypothalamus",
+        "Corpus Callosum",
+        "Cerebellum",
+        "Cerebral Cortex"
+      ],
+      "answer": "Cerebellum"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "What is the primary function of the Thalamus?"
+      },
+      "options": [
+        "It acts as the main input center for sensory information going to the cerebrum, sorting and relaying data to the correct destinations.",
+        "It coordinates the fight-or-flight response during stressful situations.",
+        "It is the thick band of axons that allows the two hemispheres of the brain to communicate.",
+        "It produces hormones that regulate the menstrual cycle and sperm production."
+      ],
+      "answer": "It acts as the main input center for sensory information going to the cerebrum, sorting and relaying data to the correct destinations."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which structure is the 'control center' for the body's thermostat and biological clock, while also regulating hunger and thirst?"
+      },
+      "options": [
+        "Cerebral Cortex",
+        "Corpus Callosum",
+        "Hypothalamus",
+        "Brainstem"
+      ],
+      "answer": "Hypothalamus"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "What is the role of the Corpus Callosum?"
+      },
+      "options": [
+        "It provides the outer layer of gray matter where complex thinking occurs.",
+        "It is the communication bridge consisting of axon bundles that connects the left and right cerebral hemispheres.",
+        "It filters toxins out of the cerebrospinal fluid before they reach the brainstem.",
+        "It stores long-term memories regarding spatial navigation."
+      ],
+      "answer": "It is the communication bridge consisting of axon bundles that connects the left and right cerebral hemispheres."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which part of the brain is responsible for high-level functions like perception, voluntary movement, and learning?"
+      },
+      "options": [
+        "Cerebellum",
+        "Thalamus",
+        "Cerebral Cortex",
+        "Medulla Oblongata"
+      ],
+      "answer": "Cerebral Cortex"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which lobe of the cerebral cortex is primarily responsible for high-level cognitive functions, such as decision-making, planning, and the control of voluntary muscle movements?"
+      },
+      "options": [
+        "Frontal Lobe",
+        "Parietal Lobe",
+        "Temporal Lobe",
+        "Occipital Lobe"
+      ],
+      "answer": "Frontal Lobe"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which lobe contains the somatosensory cortex and is responsible for processing tactile information like touch, pain, and pressure?"
+      },
+      "options": [
+        "Frontal Lobe",
+        "Parietal Lobe",
+        "Temporal Lobe",
+        "Occipital Lobe"
+      ],
+      "answer": "Parietal Lobe"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "If an individual has difficulty processing auditory information or understanding spoken language, which lobe of the brain is likely affected?"
+      },
+      "options": [
+        "Occipital Lobe",
+        "Frontal Lobe",
+        "Temporal Lobe",
+        "Parietal Lobe"
+      ],
+      "answer": "Temporal Lobe"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which lobe, located at the very back of the brain, is dedicated almost exclusively to processing visual information?"
+      },
+      "options": [
+        "Occipital Lobe",
+        "Temporal Lobe",
+        "Parietal Lobe",
+        "Frontal Lobe"
+      ],
+      "answer": "Occipital Lobe"
+    },
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Catching a falling glass before it hits the floor by coordinating rapid muscle balance and timing."
+      },
+      "categories": [
+        "Frontal Lobe",
+        "Parietal Lobe",
+        "Temporal Lobe",
+        "Occipital Lobe",
+        "Cerebellum"
+      ],
+      "answer": "Cerebellum"
+    },
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Deciding which college to attend by weighing the long-term pros and cons of each option."
+      },
+      "categories": [
+        "Frontal Lobe",
+        "Parietal Lobe",
+        "Temporal Lobe",
+        "Occipital Lobe",
+        "Cerebellum"
+      ],
+      "answer": "Frontal Lobe"
+    },
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Feeling the heat from a hot stove burner through your fingertips."
+      },
+      "categories": [
+        "Frontal Lobe",
+        "Parietal Lobe",
+        "Temporal Lobe",
+        "Occipital Lobe",
+        "Cerebellum"
+      ],
+      "answer": "Parietal Lobe"
+    },
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Recognizing the melody and lyrics of your favorite song during a concert."
+      },
+      "categories": [
+        "Frontal Lobe",
+        "Parietal Lobe",
+        "Temporal Lobe",
+        "Occipital Lobe",
+        "Cerebellum"
+      ],
+      "answer": "Temporal Lobe"
+    },
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Scanning a crowded room to find a specific friend's face in the distance."
+      },
+      "categories": [
+        "Frontal Lobe",
+        "Parietal Lobe",
+        "Temporal Lobe",
+        "Occipital Lobe",
+        "Cerebellum"
+      ],
+      "answer": "Occipital Lobe"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "In the context of the nervous system, which of the following best defines 'neuroplasticity'?"
+      },
+      "options": [
+        "The permanent hardening of neuronal pathways after the age of 25, preventing further learning.",
+        "The ability of the nervous system to be modified and reorganized through the strengthening or weakening of synaptic connections in response to experience.",
+        "The process by which the brain replaces neurons lost to injury by converting glial cells into stem cells.",
+        "The physical stretching of the axon to reach distant target tissues during periods of rapid growth."
+      ],
+      "answer": "The ability of the nervous system to be modified and reorganized through the strengthening or weakening of synaptic connections in response to experience."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "On a physical level, how does the brain typically convert short-term memories into stable, long-term memories?"
+      },
+      "options": [
+        "By physically merging individual neurons together to create a single, larger cell that stores more data.",
+        "Through long-term potentiation (LTP), which involves a lasting increase in the strength of synaptic transmission between specific neurons.",
+        "By moving the electrical impulses into the white matter where they are stored as static magnetic fields.",
+        "By creating a protective protein shell around the cell body to shield the memory from being overwritten."
+      ],
+      "answer": "Through long-term potentiation (LTP), which involves a lasting increase in the strength of synaptic transmission between specific neurons."
+    }
+  ]
+}

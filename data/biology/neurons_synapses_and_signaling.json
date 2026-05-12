@@ -1,0 +1,205 @@
+{
+  "title": "Neurons, Synapses, and Signaling Quiz",
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "In a typical neuron, which of the following correctly describes the structural and functional relationship between dendrites and the axon?"
+      },
+      "options": [
+        "Dendrites are long, myelinated structures that carry signals away from the cell body, while the axon is a branched structure that receives incoming data.",
+        "Dendrites act as the receiving end that conducts signals toward the cell body, while the single axon conducts impulses away from the cell body toward a synapse.",
+        "Dendrites and axons are identical in structure, but dendrites only carry electrical signals while axons carry chemical signals.",
+        "Dendrites emerge from the axon hillock to initiate action potentials, while the axon provides the surface area for receiving neurotransmitters."
+      ],
+      "answer": "Dendrites act as the receiving end that conducts signals toward the cell body, while the single axon conducts impulses away from the cell body toward a synapse."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which of the following best describes the role of myelin in the nervous system?"
+      },
+      "options": [
+        "Myelin is a neurotransmitter that facilitates communication between neurons at the synapse.",
+        "Myelin is a fatty substance that insulates axons, increasing the speed of electrical signal transmission.",
+        "Myelin is a type of glial cell that provides structural support to neurons.",
+        "Myelin is a protein that forms the cytoskeleton of neurons, maintaining their shape and integrity."
+      ],
+      "answer": "Myelin is a fatty substance that insulates axons, increasing the speed of electrical signal transmission."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "Which of the following correctly identifies the three stages of nervous system processing in the correct order?"
+      },
+      "options": [
+        "Integration → Sensory Input → Motor Output",
+        "Sensory Input → Integration → Motor Output",
+        "Motor Output → Sensory Input → Integration",
+        "Sensory Input → Motor Output → Integration"
+      ],
+      "answer": "Sensory Input → Integration → Motor Output"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "How do the Central Nervous System (CNS) and the Peripheral Nervous System (PNS) differ in their primary roles?"
+      },
+      "options": [
+        "The CNS consists of the brain and spinal cord and acts as the integration center, while the PNS consists of nerves that carry information into and out of the CNS.",
+        "The CNS is responsible for receiving external stimuli, while the PNS is responsible for all complex decision-making and memory storage.",
+        "The CNS consists only of motor neurons, while the PNS consists only of sensory neurons.",
+        "The CNS regulates the endocrine system, while the PNS operates entirely independently of the brain to control muscle movement."
+      ],
+      "answer": "The CNS consists of the brain and spinal cord and acts as the integration center, while the PNS consists of nerves that carry information into and out of the CNS."
+    },
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Brain"
+      },
+      "categories": [
+        "Central Nervous System (CNS)",
+        "Peripheral Nervous System (PNS)"
+      ],
+      "answer": "Central Nervous System (CNS)"
+    },
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Spinal Cord"
+      },
+      "categories": [
+        "Central Nervous System (CNS)",
+        "Peripheral Nervous System (PNS)"
+      ],
+      "answer": "Central Nervous System (CNS)"
+    },
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Cranial Nerves"
+      },
+      "categories": [
+        "Central Nervous System (CNS)",
+        "Peripheral Nervous System (PNS)"
+      ],
+      "answer": "Peripheral Nervous System (PNS)"
+    },
+    {
+      "type": "drag_and_drop",
+      "prompt": {
+        "text": "Spinal Nerves"
+      },
+      "categories": [
+        "Central Nervous System (CNS)",
+        "Peripheral Nervous System (PNS)"
+      ],
+      "answer": "Peripheral Nervous System (PNS)"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "In a resting neuron, which of the following best describes the 'membrane potential'?"
+      },
+      "options": [
+        "The total amount of electrical energy stored within the mitochondria of the cell.",
+        "The charge difference across the plasma membrane, with the inside of the cell being negative relative to the outside.",
+        "The speed at which an electrical impulse travels from the dendrites to the axon hillock.",
+        "The pressure exerted by the cytoplasm against the cell membrane during an action potential."
+      ],
+      "answer": "The charge difference across the plasma membrane, with the inside of the cell being negative relative to the outside."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "How does the sodium-potassium pump contribute to maintaining the resting membrane potential of a neuron?"
+      },
+      "options": [
+        "It allows sodium and potassium to diffuse freely until the charge is equal on both sides.",
+        "It uses ATP to actively transport 3 sodium ions out of the cell for every 2 potassium ions it brings in, helping maintain a negative internal charge.",
+        "It pumps negative electrons into the cell while moving positive protons into the extracellular fluid.",
+        "It converts sodium into potassium to ensure the cell has a constant supply of energy for neurotransmission."
+      ],
+      "answer": "It uses ATP to actively transport 3 sodium ions out of the cell for every 2 potassium ions it brings in, helping maintain a negative internal charge."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "During an action potential, what specific event causes the 'depolarization' of the neuron's membrane?"
+      },
+      "options": [
+        "The closing of all ion channels to prevent any charge from escaping the cell.",
+        "The rapid opening of voltage-gated sodium channels, allowing Na+ to flow into the cell and make the inside more positive.",
+        "The activation of the sodium-potassium pump to move all positive ions into the surrounding tissue.",
+        "The release of neurotransmitters from the dendrites into the cell body."
+      ],
+      "answer": "The rapid opening of voltage-gated sodium channels, allowing Na+ to flow into the cell and make the inside more positive."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "What occurs during hyperpolarization to make a neuron less likely to fire an action potential?"
+      },
+      "options": [
+        "The membrane potential becomes more positive as sodium ions enter the cell, bringing it closer to the threshold.",
+        "The membrane potential becomes more negative than the resting potential, increasing the 'distance' to the threshold.",
+        "The sodium-potassium pump stops working, causing the internal and external charges to equalize at 0 mV.",
+        "Voltage-gated sodium channels open rapidly, allowing the cell to reach a peak positive charge."
+      ],
+      "answer": "The membrane potential becomes more negative than the resting potential, increasing the 'distance' to the threshold."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "The action potential is often described as an 'all-or-none' response. What does this mean regarding the neuron's signaling?"
+      },
+      "options": [
+        "The neuron fires a stronger electrical impulse if the stimulus is much larger than the threshold.",
+        "The action potential either occurs fully once the threshold is reached or it does not occur at all, regardless of the stimulus strength.",
+        "The neuron uses all of its ATP to fire a single signal and then must wait several days to recharge.",
+        "The signal can stop halfway down the axon if the initial energy provided by the cell body was insufficient."
+      ],
+      "answer": "The action potential either occurs fully once the threshold is reached or it does not occur at all, regardless of the stimulus strength."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "What is the primary significance of the 'refractory period' that follows an action potential?"
+      },
+      "options": [
+        "It provides a time delay that allows neurotransmitters to be recycled back into the dendrites.",
+        "It prevents the action potential from traveling backward and ensures that nerve impulses move in only one direction toward the synaptic terminals.",
+        "It is a period of high energy where the neuron can fire multiple action potentials simultaneously to amplify the signal.",
+        "It allows the myelin sheath to regrow after being dissolved by the electrical current of the impulse."
+      ],
+      "answer": "It prevents the action potential from traveling backward and ensures that nerve impulses move in only one direction toward the synaptic terminals."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "How do the Nodes of Ranvier and the process of saltatory conduction increase the speed of nerve impulse transmission?"
+      },
+      "options": [
+        "By allowing the electrical signal to flow through the fatty tissue of the myelin sheath rather than the axon itself.",
+        "By forcing the action potential to 'jump' from one node to the next, skipping the insulated myelinated sections and depolarizing only at the gaps.",
+        "By providing extra ATP at each node to push the sodium-potassium pump into overdrive.",
+        "By narrowing the axon at the nodes to increase the pressure and velocity of the ionic flow."
+      ],
+      "answer": "By forcing the action potential to 'jump' from one node to the next, skipping the insulated myelinated sections and depolarizing only at the gaps."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": {
+        "text": "What is the primary physical process that allows neurotransmitters to travel across the synaptic cleft from the presynaptic to the postsynaptic neuron?"
+      },
+      "options": [
+        "Active transport using protein pumps and ATP",
+        "Passive diffusion across the narrow gap",
+        "Electrical jumping similar to saltatory conduction",
+        "Pressure-driven flow through specialized microscopic tubes"
+      ],
+      "answer": "Passive diffusion across the narrow gap"
+    }
+  ]
+}
